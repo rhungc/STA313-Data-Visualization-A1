@@ -1,12 +1,12 @@
 ---
-title: "R Notebook"
+title: "Data Visulization Project on Movies Shot in Toronto"
 output:
   pdf_document: default
   html_notebook: default
   word_document: default
 ---
 
-```{r,warning=FALSE, echo=FALSE}
+```{r,warning=FALSE, echo=FALSE, include=FALSE}
 #import libraries 
 library(tidyverse)
 library(readr)
