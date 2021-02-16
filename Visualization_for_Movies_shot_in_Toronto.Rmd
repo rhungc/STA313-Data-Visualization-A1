@@ -172,6 +172,8 @@ recession_added %>%
 #268bd2
 ```
 
+\newpage
+
 ### Data Visualization Writeup 
 The purpose of my visualization graph is to understand whether the ratio of USD/CAD exchange rate have any effect to the number of film productions in Toronto. To better assist the viewers to understand the general economic condition in each year , I also highlighted the years that United States experienced recessions so the viewers can make better comparisons. According to our graph, we see that in the years where exchange rates are low (ex. 1998- 2002), the number of movies made in Toronto is the highest. On the other hand, we don't see a direct effect from the economic conditions from the visualization. This may due to the lag effect from the recessions however, since we haven't done much statistical analysis here, more study is needed before drawing any conclusions. 
 
